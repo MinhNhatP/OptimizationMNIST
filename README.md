@@ -1,4 +1,7 @@
 # learningAI
+
+using github.dev to directly reading
+
 MOMENTUM
 
 The ideal learning rate for the Momentum optimizer also depends on the specific problem and dataset being used. However, in general, Momentum can handle
