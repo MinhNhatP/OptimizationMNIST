@@ -18,3 +18,6 @@ DROPOUT
 The Dropout rate is a hyperparameter that determines the probability of dropping out each unit in the network.
 A common default value for the Dropout rate is 0.5, which means that 5096 of the units are randomly dropped out during each training iteration. 
 However, the ideal dropout rate can depend on the size and complexity of the network, the nature of the dataset and the amount of noise in the data.
+![image](https://user-images.githubusercontent.com/130331848/231134143-e1b643cb-3782-436e-8d05-87a108270cb1.png)
+![image](https://user-images.githubusercontent.com/130331848/231134199-b65b82ab-8021-46cc-9b89-09f79c77ecea.png)
+
