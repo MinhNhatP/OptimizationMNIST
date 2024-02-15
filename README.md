@@ -1,4 +1,4 @@
-# learningAI
+# Optimization in Deep Learning: MOMENTUM, DROPOUT, ADAGRAD
 
 
 
